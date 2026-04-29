@@ -7,7 +7,7 @@ Programacion
 
 
 
-![CC](EXAMEN-24308060610707/static/Incorrecta_C.png) 
+![CC](/static/Incorrecta_C.png) 
 Cuando Agregas mal un campo ya sea correo o contraseña te dara error
 
 
