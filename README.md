@@ -15,7 +15,7 @@ Cuando Agregas mal un campo ya sea correo o contraseña te dara error
 Al agregar contraseñas diferentes en el registro te dara un error
 
 
-![CYR](/static/Correo_registrado) 
+![CYR](/static/Correo_registrado.png) 
 Al agregar un correo ya registrado dara error
 
 ![ISC](/static/Iniciado_sesion.png) 
