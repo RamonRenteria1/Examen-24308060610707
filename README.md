@@ -11,17 +11,17 @@ Programacion
 Cuando Agregas mal un campo ya sea correo o contraseña te dara error
 
 
-![CNC](EXAMEN-24308060610707/static/C_no_Coinciden.png) 
+![CNC](/static/C_no_Coinciden.png) 
 Al agregar contraseñas diferentes en el registro te dara un error
 
 
-![CYR](EXAMEN-24308060610707/static/Correo_registrado) 
+![CYR](/static/Correo_registrado) 
 Al agregar un correo ya registrado dara error
 
-![ISC](EXAMEN-24308060610707/static/Iniciado_sesion.png) 
+![ISC](7/static/Iniciado_sesion.png) 
 AL agregar todos los campos correctos de una cuenta ya registrada e iniciado sesion bien correctamente te dejara entrar 
 
-![ISC](EXAMEN-24308060610707/static/drop.png) 
+![ISC](static/drop.png) 
 AL dar click en tu nombre en el panel de tareas te desplegara un menu con opciones de cerrrar sesion y editar perfil
 
 
