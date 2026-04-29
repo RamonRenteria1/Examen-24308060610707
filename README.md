@@ -18,7 +18,7 @@ Al agregar contraseñas diferentes en el registro te dara un error
 ![CYR](/static/Correo_registrado) 
 Al agregar un correo ya registrado dara error
 
-![ISC](7/static/Iniciado_sesion.png) 
+![ISC](/static/Iniciado_sesion.png) 
 AL agregar todos los campos correctos de una cuenta ya registrada e iniciado sesion bien correctamente te dejara entrar 
 
 ![ISC](static/drop.png) 
